@@ -1,5 +1,5 @@
 - 👋 Howdy, I’m @landeryt
-- 👀 I’m interested in Minecraft administration and development (and more)
+- 👀 I’m interested in making youtube content and programming
 - 🌱 I’m currently learning Java (on my own) and C (in college)
 - 📫 How to reach me: "landeryt" on discord
 
