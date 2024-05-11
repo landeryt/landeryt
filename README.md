@@ -1,6 +1,6 @@
 - 👋 Howdy, I’m @landeryt
 - 👀 I’m interested in making youtube content and programming
-- 🌱 I’m currently learning Java (on my own) and C (in college)
+- 🌱 I’m currently learning Python (on my own) and C (in college)
 - 📫 How to reach me: "landeryt" on discord
 
 <!---
